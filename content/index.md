@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+We will explore the amazing homes of Frank Lloyd Wright homes throughout the United States.  This will include all the homes I have visited myself in person and the experience I had during the visit.: Template for Knowledge Base Docs Websites
 ---
 ## The index page
 
