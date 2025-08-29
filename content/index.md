@@ -10,7 +10,6 @@ We will explore the amazing homes of Frank Lloyd Wright homes throughout the Uni
 * [[homes-texas/index|Homes Texas]]
 * [[homes-wisconsin/index|Homes Wisconsin]]
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
 ## Editing pages
 
