@@ -3,12 +3,12 @@ We will explore the amazing homes of Frank Lloyd Wright homes throughout the Uni
 ---
 ## Main Categories
 
-* [[content/FLW-Bio/Index.md|Index.md]]
-* [[content/Famous-Work/Index.md|Index.md]]
-* [[content/Homes-Illinois/Index.md|Index.md]]
-* [[content/Homes-Indiana/Index.md|Index.md]]
-* [[content/Homes-Texas/Index.md|Index.md]]
-* [[content/Homes-Wisconsin/Index.md|Index.md]]
+* [[flw-bio/index.md|FLW Bio]]
+* [[famous-work/index.md|Famous Work]]
+* [[homes-illinois/index.md|Homes Illinois]]
+* [[homes-indiana/index.md|Homes Indiana]]
+* [[homes-texas/index.md|Homes Texas]]
+* [[homes-wisconsin/index.md|Homes Wisconsin]]
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
