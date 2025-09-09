@@ -1,3 +1,4 @@
 ---
-title: We will explore homes in Illinois that I have had the privilege of visiting in my adventures.
+title: Homes in Illinois
 ---
+We will explore homes in Illinois that I have had the privilege of visiting in my adventures.
