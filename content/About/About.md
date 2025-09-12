@@ -1,2 +1,0 @@
-My name is Marina.  I am an accomplished General Manager for The Cheesecake Factory.  I have been with the company for 14 years and have been a General Manager for 3.5 years.
-I am a mother to my one son, who is 6, and 4 step-daughters ages 13, 15, 19 and 21.  I have been happily married to my husband for 12 years.  We moved to Lubbock TX from San Antonio TX in 2022 when I got promoted to the General Manager position.

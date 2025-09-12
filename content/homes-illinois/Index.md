@@ -1,4 +1,4 @@
 ---
 title: Homes in Illinois
 ---
-We will explore homes in Illinois that I have had the privilege of visiting in my adventures.
+We will explore Frank Lloyd Wright designed homes in Illinois.
