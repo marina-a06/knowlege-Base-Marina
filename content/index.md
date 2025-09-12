@@ -8,7 +8,7 @@ We will explore the amazing homes of Frank Lloyd Wright homes throughout the Uni
 * [[homes-illinois/index|Homes Illinois]]
 * [[homes-indiana/index|Homes Indiana]]
 * [[homes-minnesota/index|Homes Minnesota]]
-* [[homes-test/index|Homes Test]]
+* [[homes-wisconsin/index|Homes Wisconsin]]
 
 
 ## Editing pages
