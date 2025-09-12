@@ -5,10 +5,10 @@ We will explore the amazing homes of Frank Lloyd Wright homes throughout the Uni
 
 * [[flw-bio/index|FLW Bio]]
 * [[famous-work/index|Famous Work]]
-* [[content/homes-visited/index|Homes Illinois]]
-* [[content/homes-illinois/index|Homes Indiana]]
-* [[content/homes-minnesota/index|Homes Texas]]
-* [[homes-wisconsin/index|Homes Wisconsin]]
+* [[homes-illinois/index|Homes Illinois]]
+* [[homes-indiana/index|Homes Indiana]]
+* [[homes-minnesota/index|Homes Minnesota]]
+* [[homes-test/index|Homes Test]]
 
 
 ## Editing pages
