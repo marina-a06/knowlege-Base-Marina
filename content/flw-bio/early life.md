@@ -1,9 +1,8 @@
 ---
 title: Early Life
 ---
-
-![[FLW 1.jpg]]
-###### Young Frank Lloyd Wright, circa 1885, Madison WI,  Curtiss, E.R. (Edwin Rodney), 1836-1906
+![[EarlyLife.jpg]]
+###### Young Frank Lloyd Wright, circa 1878, Madison WI
 
 
 # Birth
