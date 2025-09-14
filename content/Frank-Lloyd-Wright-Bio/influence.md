@@ -32,5 +32,5 @@ Unfortunately for Frank, this was holding him back from designing his own reside
 
 
 This would _side work_ would ultimately cause the downfall of Wright and Sullivan in 1893.
-Frank went on to create the now famous design of his work in architecture called [[flw-bio/prairie-school|Prairie School]].  Furthermore, after the Great Depression, Frank would find a way to still design for clients and meet their needs on a _budget_ during this financially straining time. This new design would be known as [[flw-bio/usonia|Usonia]]. 
+Frank went on to create the now famous design of his work in architecture called [[prairie-school|Prairie School]].  Furthermore, after the Great Depression, Frank would find a way to still design for clients and meet their needs on a _budget_ during this financially straining time. This new design would be known as [[usonia|Usonia]]. 
 
