@@ -27,7 +27,8 @@ Frank grew up on his family farm with his mother and father until they divorced 
 ## Louis Sullivan
 Once Frank relocated to Chicago, he began working for the architecture firm Adler & Sullivan where he would spend the early years of his career designing alongside Louis Sullivan. At the time because Frank was employed by Sullivan, his work was originally designed by Sullivan and Frank would build from it with Sullivans approval.  
 Unfortunately for Frank, this was holding him back from designing his own residential homes, therefore he began to do so on his nights and weekends for clients that would come to him. (Adler & Sullivan stuck to commercial designing in their studio)
-![[A&S.png]]
+
+![[content/A&S.png]] 
 ###### Design archive of Adler & Sullivan from the _Complete Work of Adler & Sullivan_ draft
 
 
