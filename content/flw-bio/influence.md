@@ -10,7 +10,7 @@ title: Influences
 ###### From left: William Cary Wright as a young Baptist minister in McGregor, Iowa, circa 1870 (image courtesy of the William C. Wright Collection, State Historical Society of Iowa, Iowa City, and Hope and Mary C. Rogers). Center and right: William and Anna Lloyd Jones around the time of their marriage
 
 
-### Anna Lloyd Jones
+## Anna Lloyd Jones
 Anna, Frank's mother, was an Elementary School teacher during his young child years. During her teaching, Anna was introduced to educational building blocks called _Froebel Gifts._
 
 Froebel gifts break down the geometric forms and relations with in the natural world which gives the opportunity to engage in two critical aspects of the design process:
@@ -24,7 +24,7 @@ In Frank's autobiography, **Wright, Frank Lloyd. _An Autobiography_. Longmans, G
 Frank grew up on his family farm with his mother and father until they divorced when Frank was 14 years old.  During their time on the farm, Anna encourage Frank's time on the farm and being one with nature.  Frank found a true love for nature and wanted to be able to merge nature and material together when he began to think about design.  We will later explore some of Franks most famous home, Falling Water, where these 2 elements became one in his design.
 
 
-### Louis Sullivan
+## Louis Sullivan
 Once Frank relocated to Chicago, he began working for the architecture firm Adler & Sullivan where he would spend the early years of his career designing alongside Louis Sullivan. At the time because Frank was employed by Sullivan, his work was originally designed by Sullivan and Frank would build from it with Sullivans approval.  
 Unfortunately for Frank, this was holding him back from designing his own residential homes, therefore he began to do so on his nights and weekends for clients that would come to him. (Adler & Sullivan stuck to commercial designing in their studio)
 ![[A&S.png]]
