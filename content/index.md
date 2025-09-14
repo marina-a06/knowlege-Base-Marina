@@ -3,7 +3,7 @@ We will explore the amazing homes of Frank Lloyd Wright homes throughout the Uni
 ---
 ## Main Categories
 
-* [[frank-lloyd-wright/index|Frank Lloyd Wright Biography]]
+* [[frank-lloyd-wright-bio/index|Frank Lloyd Wright Biography]]
 * [[famous-work/index|Famous Work]]
 * [[homes-illinois/index|Homes in Illinois]]
 * [[homes-visited/index|Homes I Have Explored]]
