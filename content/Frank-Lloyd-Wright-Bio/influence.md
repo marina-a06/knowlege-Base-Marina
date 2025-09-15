@@ -18,7 +18,9 @@ Froebel gifts break down the geometric forms and relations with in the natural w
 * the practice of play 
 ###### (Provenzo, Eugene F. (2009). "Fredrich Froebel's Gifts: Connecting the Spiritual and Aesthetic to the Real World of Play and Leaning")
 
-In Frank's autobiography, **Wright, Frank Lloyd. _An Autobiography_. Longmans, Green and Co., 1932.**,  he would go on to say how the these blocks in his hands never left his hands.  To the day, Frank believed those blocks where still in his hands and played a role in his inspired designs.![[Frobels-blocks.webp]]
+In Frank's autobiography, **Wright, Frank Lloyd. _An Autobiography_. Longmans, Green and Co., 1932.**,  he would go on to say how the these blocks in his hands never left his hands.  To the day, Frank believed those blocks where still in his hands and played a role in his inspired designs.
+
+![[Frobels-blocks.webp]]
 ###### Frobel's Blocks in Frank Lloyd Wright's home in Chicago
 
 Frank grew up on his family farm with his mother and father until they divorced when Frank was 14 years old.  During their time on the farm, Anna encourage Frank's time on the farm and being one with nature.  Frank found a true love for nature and wanted to be able to merge nature and material together when he began to think about design.  We will later explore some of Franks most famous home, Falling Water, where these 2 elements became one in his design.
@@ -28,7 +30,7 @@ Frank grew up on his family farm with his mother and father until they divorced 
 Once Frank relocated to Chicago, he began working for the architecture firm Adler & Sullivan where he would spend the early years of his career designing alongside Louis Sullivan. At the time because Frank was employed by Sullivan, his work was originally designed by Sullivan and Frank would build from it with Sullivans approval.  
 Unfortunately for Frank, this was holding him back from designing his own residential homes, therefore he began to do so on his nights and weekends for clients that would come to him. (Adler & Sullivan stuck to commercial designing in their studio)
 
-![Adler and Sullivan](content/images/A&S.png)
+![[A&S.png]]
 ###### Design archive of Adler & Sullivan from the _Complete Work of Adler & Sullivan_ draft
 
 
