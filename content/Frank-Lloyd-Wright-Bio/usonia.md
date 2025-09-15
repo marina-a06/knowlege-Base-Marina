@@ -14,5 +14,5 @@ Some of the known characteristics of a Usonian home are:
 
 The first home design for a family was the Malcolm Willey House.
 
-![[Malcolm_Willey_House.jpg]]
+![Willey House](images/Malcolm_Willey_House.jpg)
 ###### Malcolm Willey House, 255 Bedford Street, Southeast, Minneapolis, MN
