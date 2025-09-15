@@ -30,10 +30,6 @@ Frank grew up on his family farm with his mother and father until they divorced 
 Once Frank relocated to Chicago, he began working for the architecture firm Adler & Sullivan where he would spend the early years of his career designing alongside Louis Sullivan. At the time because Frank was employed by Sullivan, his work was originally designed by Sullivan and Frank would build from it with Sullivans approval.  
 Unfortunately for Frank, this was holding him back from designing his own residential homes, therefore he began to do so on his nights and weekends for clients that would come to him. (Adler & Sullivan stuck to commercial designing in their studio)
 
-![[A&S.png]]
-###### Design archive of Adler & Sullivan from the _Complete Work of Adler & Sullivan_ draft
-
-
 This would _side work_ would ultimately cause the downfall of Wright and Sullivan in 1893.
 Frank went on to create the now famous design of his work in architecture called [[frank-lloyd-wright-bio/prairie-school|Prairie School]].  Furthermore, after the Great Depression, Frank would find a way to still design for clients and meet their needs on a _budget_ during this financially straining time. This new design would be known as [[frank-lloyd-wright-bio/usonia|Usonia]]. 
 
