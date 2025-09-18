@@ -14,3 +14,5 @@ Frank Lloyd Wright was born to Anna Lloyd Jones and William Carey Wright on June
 
 ## Beginning Education
 At 18 years old, Frank's his parents would eventually divorce leading him to begin working for the engineering department for the University of Wisconsin where he studied in the Engineering department. This would go on to lead him of dreaming to be an architect and pursing his life in Chicago, 150 miles away from home.
+
+![[FLW.jpg]]

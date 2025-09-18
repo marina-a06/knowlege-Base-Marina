@@ -18,3 +18,5 @@ Taliesin, located in Wisconsin and Taliesin West, located in Arizona were Wright
 
 ![[taliesin West.jpg]]
 ###### Taliesin West Studio, 12162 N. Frank Lloyd Wright Dr., Scottsdale, AZ
+
+![[frank lloyd wright.pdf]]

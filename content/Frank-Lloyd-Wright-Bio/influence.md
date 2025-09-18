@@ -18,7 +18,7 @@ Froebel gifts break down the geometric forms and relations with in the natural w
 * the practice of play 
 ###### (Provenzo, Eugene F. (2009). "Fredrich Froebel's Gifts: Connecting the Spiritual and Aesthetic to the Real World of Play and Leaning")
 
-In Frank's autobiography, **Wright, Frank Lloyd. _An Autobiography_. Longmans, Green and Co., 1932.**,  he would go on to say how the these blocks in his hands never left his hands.  To the day, Frank believed those blocks where still in his hands and played a role in his inspired designs.
+In Frank's autobiography, **Wright, Frank Lloyd. _An Autobiography_. Longmans, Green and Co., 1932.**, he would go on to say how the these blocks in his hands never left his hands.  To the day, Frank believed those blocks where still in his hands and played a role in his inspired designs.
 
 ![[Frobels-blocks.webp]]
 ###### Frobel's Blocks in Frank Lloyd Wright's home in Chicago
