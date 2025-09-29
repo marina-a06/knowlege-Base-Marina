@@ -1,6 +1,3 @@
----
-title: American Architect Frank Lloyd Wright
----
 
 
 ## Main Categories
