@@ -13,4 +13,4 @@ Prairie School design was know to have these distinct features:
 >The prairie style was derived from the prairie lands of the Midwest of the United States; treeless and flat.  He incorporated his love for nature and combined the design and materials of the homes and the nature around it.
 
 ![[Frederick_C._Robie_House.jpg]]
-###### Fredrick C. Robie House, 5757 S. Woodlawn Ave. Chicago, Il
+###### Frederick C. Robie House, 5757 S. Woodlawn Ave. Chicago, Il

@@ -6,7 +6,7 @@ title: Early Life
 
 
 ## Birth
-Frank Lloyd Wright was born to Anna Lloyd Jones and William Carey Wright on June 8, 1867 in Richland Center, Wisconsin.  His mother, Anna, was a teacher, which would later be a significant [[legacy|legacy]] in his love for building building blocks and nature, and his father was a well-known pastor and musician for the Unitarian community.  In his infant years, his father travelled with his family along the east coast of the United States with different Unitarian Missionaries until they finally moved back to Wisconsin when they fell on hard times financially. 
+Frank Lloyd Wright was born to Anna Lloyd Jones and William Carey Wright on June 8, 1867 in Richland Center, Wisconsin.  His mother, Anna, was a teacher, which would later be significant to his [[legacy|legacy]] in his love for building building blocks and nature, and his father was a well-known pastor and musician for the Unitarian community.  In his infant years, his father travelled with his family along the east coast of the United States with different Unitarian Missionaries until they finally moved back to Wisconsin when they fell on hard times financially. 
 > During their travels they stayed in many states in the east coast including:
 > * Rhode Island
 > * Iowa
