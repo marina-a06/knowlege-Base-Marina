@@ -7,7 +7,8 @@ title: An American Architect- Frank Lloyd Wright
 
 * [[work-famous/index|Famous Work]]
 * [[homes-visited/index|Homes I Have Visited]]
+* [[homes-illinois/index|Home in Illinois]]
 * [[homes-minnesota/index|Homes in Minnesota]]
 * [[homes-wisconsin/index|Homes in Wisconsin]]
-* [[frank-lloyd-wright-bio/early-life|Frank Lloyd Wright Biography]]
+* [[content/frank-lloyd-wright-bio/index|Frank Lloyd Wright Biography]]
 * [[references/index|References]]
