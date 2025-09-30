@@ -13,6 +13,9 @@ Though he passed away in 1959 in Arizona, his ideas live on - not just in stone,
 
 Let this be more than a website. Let it be a spark of inspiration.
 
+![[Frank_Lloyd_Wright_portrait.jpg]]
+
+
 ## Main Categories
 
 * [[Frank-Lloyd-Wright-Bio/index|Frank Lloyd Wright Biography]]
