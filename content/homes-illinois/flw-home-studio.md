@@ -2,7 +2,7 @@
 title: Frank Lloyd Wright Home and Studio
 ---
 
-Frank Lloyd Wright's home and studio in Oak Park, Il, is known as Wright first free designs of his own.  This home was built in 1889 and modified over the years as his family grew.  At the time, Wright was still working under [[frank-lloyd-wright-bio/influence|Louis Sullivan]] and had yet to venture out to design on his own. 
+Frank Lloyd Wright's home and studio in Oak Park, Il, is known as Wright first free designs of his own.  This home was built in 1889 and modified over the years as his family grew.  At the time, Wright was still working under [[Frank-Lloyd-Wright-Bio/influence|Louis Sullivan]] and had yet to venture out to design on his own. 
 
 ![[IMG_4277.jpg]]
 
